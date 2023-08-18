@@ -1,0 +1,22 @@
+@use '../utils' as u;
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto;
+    gap: u.rem(40);
+    width: min(100% - u.rem(40), u.rem(1000));
+    margin-inline: auto;
+    
+    @include u.breakpoint(large) {
+        grid-template-columns: 2fr;
+    }
+
+    &__main {
+        padding: u.rem(40);
+
+        @include u.breakpoint-down(small) {
+            text-align: center;
+        }
+    }
+}
