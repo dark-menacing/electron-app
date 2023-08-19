@@ -6,7 +6,10 @@
 
 This is my first Electron app, using Typescript and SASS.
 
+If your wondering on how to use my Electron app, look [here](#how-to-use)
+
 ## How to use
+*note: You need Node 20+*
 ``` bash
 # Clone this repository
 git clone https://github.com/dark-menacing/electron-app.git
