@@ -14,4 +14,4 @@ This is a tutorial on how to make an Electron app, just follow these steps:
 **1.** Fork this repository.  
 **2.** Clone it.  
 **3.** After cloning it, run `npm ci`.  
-**4.** Finally, wait until all packages are installed and run `npm run start`.
+**4.** Finally, wait until all packages are installed and run `npm run start`
