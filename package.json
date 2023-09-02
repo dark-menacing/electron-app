@@ -2,10 +2,9 @@
   "name": "electron-app",
   "version": "1.1.0",
   "description": "This is my first electron app.",
-  "main": "dist/js/main.js",
+  "main": "app/js/main.js",
   "scripts": {
-    "build": "tsc",
-    "start": "tsc && electron ."
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -22,10 +21,6 @@
   },
   "homepage": "https://github.com/dark-menacing/electron-app#readme",
   "devDependencies": {
-    "electron": "^26.1.0",
-    "typescript": "^5.2.2"
-  },
-  "dependencies": {
-    "tslib": "^2.6.2"
+    "electron": "^25.5.0"
   }
 }
