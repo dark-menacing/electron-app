@@ -15,7 +15,7 @@
     &__main {
         padding: u.rem(40);
 
-        @include u.breakpoint-down(small) {
+        @include u.breakpoint-down(medium) {
             text-align: center;
         }
     }
