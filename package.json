@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/dark-menacing/electron-app#readme",
   "devDependencies": {
-    "electron": "^25.5.0"
+    "electron": "^26.2.0"
   }
 }
