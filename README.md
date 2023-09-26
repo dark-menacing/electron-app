@@ -1,4 +1,7 @@
 # electron-app
+
+Warning ⚠️: This project is so longer maintained and will be arquived.
+
 [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 [![Build Status](https://img.shields.io/github/stars/dark-menacing/electron-app.svg)](https://github.com/dark-menacing/electron-app)
 [![Build Status](https://img.shields.io/github/forks/dark-menacing/electron-app.svg)](https://github.com/dark-menacing/electron-app)
